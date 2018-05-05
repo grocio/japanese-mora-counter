@@ -25,11 +25,16 @@ mora=$(echo $1 |
   mecab -Oyomi |
   sed -e 's/。//g'\
   -e 's/、//g'\
+  -e 's/　//g'\
+  -e 's/ //g'\
   -e 's/ャ//g'\
   -e 's/ュ//g'\
   -e 's/ョ//g'\
-  -e 's/　//g'\
-  -e 's/ //g' |
+  -e 's/ァ//g'\
+  -e 's/ィ//g'\
+  -e 's/ゥ//g'\
+  -e 's/ェ//g'\
+  -e 's/ォ//g' |
   wc -m |
   xargs -I{} echo {} - 1 |
   bc)
