@@ -39,4 +39,4 @@ Type `git clone https://github.com/grocio/japanese-mora-counter` on the terminal
 
 4. Change its permission
 
-Type `cd japanese-mora-counter` and `chmod u+x ./jmc.sh`
+Type `cd japanese-mora-counter` and `chmod u+x ./jmc.sh`.
