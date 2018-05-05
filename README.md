@@ -6,7 +6,7 @@ Usage: jmc.sh [-y] target
 
 With -y option, this command gives Japanese pronunciation in Katakana for reference.
 
-## Eample
+## Example
 ```
 $ ./jmc.sh 林檎
 3
