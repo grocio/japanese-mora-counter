@@ -26,3 +26,12 @@ $ cat mora_test.txt | ./jmc.sh -y
 
 ## Dependency
 This command depends on [MeCab](http://taku910.github.io/mecab/).
+
+## Installation
+1. Enable shell script
+2. Install`MeCab`
+Google 'MeCabe' and you will find the way!
+3. Download `jmc.sh`
+Click the green button named 'Clone or downlod' or type `git clone https://github.com/grocio/japanese-mora-counter` on the terminal.
+4. Change its permission
+Type `cd japanese-mora-counter` and `chmod u+x ./jmc.sh`
