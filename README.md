@@ -3,6 +3,7 @@ Simple command that gives you the mora count
 
 ## Usage
 Usage: jmc.sh [-y] target
+
 With -y option, this command gives Japanese pronunciation in Katakana for reference.
 
 ## Eample
