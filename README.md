@@ -31,11 +31,11 @@ This command depends on [MeCab](http://taku910.github.io/mecab/).
 1. Enable shell script
 2. Install`MeCab`
 
-Google 'MeCabe' and you will find the way!
+Google 'MeCab' and you will find the way!
 
-3. Download `jmc.sh`
+3. Download `japanese-mora-counter`
 
-Click the green button named 'Clone or downlod' or type `git clone https://github.com/grocio/japanese-mora-counter` on the terminal.
+Type `git clone https://github.com/grocio/japanese-mora-counter` on the terminal.
 
 4. Change its permission
 
