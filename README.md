@@ -23,6 +23,7 @@ $ cat mora_test.txt | ./jmc.sh -y
 バナナ,3
 サクランボ,5
 ```
+Tips: `>` operator redirects an output. For example, `$ ./jmc.sh 林檎 > results.txt` enables you to save the results in `results.txt`. Another example would be `$ cat mora_test.txt | ./jmc.sh > results.txt`.
 
 ## Dependency
 This command depends on [MeCab](http://taku910.github.io/mecab/).
