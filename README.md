@@ -41,3 +41,6 @@ Type `git clone https://github.com/grocio/japanese-mora-counter` on the terminal
 4. Change its permission
 
 Type `cd japanese-mora-counter` and `chmod u+x ./jmc.sh`.
+
+## Reference (in Japanese)
+石黒 翔, 齊藤 智, 日本語のモーラ数を計数するシェルスクリプトプログラムの提案, 日本認知心理学会発表論文集, 2018, 2018 巻, 日本認知心理学会第16回大会, セッションID pP1-036, p. 65-, 公開日 2018/12/20, [https://doi.org/10.14875/cogpsy.2018.0_65](https://doi.org/10.14875/cogpsy.2018.0_65)
